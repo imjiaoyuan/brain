@@ -1,0 +1,7 @@
+[user]
+	name = imjiaoyuan
+	email = imjiaoyuan@gmail.com
+[credential]
+	helper = store
+[core]
+	quotepath = false
